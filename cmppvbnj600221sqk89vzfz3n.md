@@ -51,9 +51,7 @@ docker run -it \
 
 Vamos começar pela parte inicial de todo Linux: atualizar todos os pacotes do sistema.
 
-Bash
-
-```plaintext
+```shell
 pacman -Syu # Sincronizando e atualizando os pacotes
 ```
 
@@ -76,9 +74,7 @@ Basicamente, quando eu uso esse comando, eu estou dizendo:
 
 Agora vou instalar as ferramentas que vou precisar neste começo de aprendizado:
 
-Bash
-
-```plaintext
+```shell
 pacman -S vim git curl wget man-db man-pages base-devel
 ```
 
