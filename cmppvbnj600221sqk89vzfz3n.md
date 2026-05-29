@@ -1,8 +1,8 @@
 ---
-title: "Meu primeiro laboratório Linux: Subindo o Arch com Docker"
+title: "Lab Linux #01: Subindo o Arch com Docker"
 datePublished: 2026-05-28T19:10:34.724Z
 cuid: cmppvbnj600221sqk89vzfz3n
-slug: meu-primeiro-laborat-rio-linux-subindo-o-arch-com-docker
+slug: lab-linux-01-subindo-o-arch-com-docker
 cover: https://cdn.hashnode.com/uploads/covers/6a188a90782587548325f645/bf39462e-7e3c-481a-a90c-f770901ccd49.png
 
 ---
